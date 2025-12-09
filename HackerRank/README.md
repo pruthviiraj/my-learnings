@@ -11,7 +11,7 @@ The goal is to build consistency, strengthen SQL concepts, and maintain a clear 
 
 | Day | Problem | Category | Concepts Practiced | Solution Link |
 |-----|---------|----------|--------------------|----------------|
-| **Day 1** | The Blunder | Aggregation | AVG, ROUND, string filtering | [View Solution](HackerRank/Day_1) |
+| **Day 1** | The Blunder | Aggregation | AVG, ROUND, string filtering | [View Solution](Day_1/README.md) |
 | **Day 2** | Occupations | Advanced Select | CASE, pivoting, ordering | [View Solution](Day_2_AdvancedSelect_Occupations/solution.sql) |
 | **Day 3** | – | – | – | – |
 | **Day 4** | – | – | – | – |
