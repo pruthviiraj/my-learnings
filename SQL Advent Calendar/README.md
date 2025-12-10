@@ -40,8 +40,8 @@ The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** rang
 | 7   | Easy   | ✅ Completed | [Day 7](./day_7_snowflake_types_count) |
 | 8   | Medium | ✅ Completed | [Day 8](./day_8_storage_room_inventory) |
 | 9   | Hard   | ✅ Completed | [Day 9](./day_9_tinsel_and_light_combinations) |
-| 10  | Medium | 🟡 In Progress | *(Folder not yet added)* |
-| 11  | Hard   | 🔒 Locked | *(Folder not yet added)* |
+| 10  | Medium | ✅ Completed | [Day 10](./day_10_cookie_factory_oven_efficiency) |
+| 11  | Hard   | 🟡 In Progress | *(Folder not yet added)* |
 | 12  | Easy   | 🔒 Locked | *(Folder not yet added)* |
 | 13  | Medium | 🔒 Locked | *(Folder not yet added)* |
 | 14  | Hard   | 🔒 Locked | *(Folder not yet added)* |
