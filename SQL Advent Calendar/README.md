@@ -40,22 +40,21 @@ The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** rang
 | 7   | Easy   | ✅ Completed | [Day 7](./day_7_snowflake_types_count) |
 | 8   | Medium | ✅ Completed | [Day 8](./day_8_storage_room_inventory) |
 | 9   | Hard   | ✅ Completed | [Day 9](./day_9_tinsel_and_light_combinations) |
-| 10  | Medium | ✅ Completed | [Day 10](./day_10_cookie_factory_oven_efficiency) |
-| 11  | Hard   | 🟡 In Progress | *(Folder not yet added)* |
-| 12  | Easy   | 🔒 Locked | *(Folder not yet added)* |
-| 13  | Medium | 🔒 Locked | *(Folder not yet added)* |
-| 14  | Hard   | 🔒 Locked | *(Folder not yet added)* |
-| 15  | Medium | 🔒 Locked | *(Folder not yet added)* |
-| 16  | Hard   | 🔒 Locked | *(Folder not yet added)* |
-| 17  | Easy   | 🔒 Locked | *(Folder not yet added)* |
-| 18  | Medium | 🔒 Locked | *(Folder not yet added)* |
-| 19  | Hard   | 🔒 Locked | *(Folder not yet added)* |
-| 20  | Medium | 🔒 Locked | *(Folder not yet added)* |
-| 21  | Hard   | 🔒 Locked | *(Folder not yet added)* |
-| 22  | Easy   | 🔒 Locked | *(Folder not yet added)* |
-| 23  | Medium | 🔒 Locked | *(Folder not yet added)* |
-| 24  | Hard   | 🔒 Locked | *(Folder not yet added)* |
-
+| 10  | Easy   | ✅ Completed | [Day 10](./day_10_cookie_factory_oven_efficiency) |
+| 11  | Medium | ✅ Completed | [Day 11](./day_11_winter_market_sweater_search) |
+| 12  | Hard   | 🟡 In Progress | [Day 12](.) |
+| 13  | Easy   | 🟡 In Progress | [Day 13](.) |
+| 14  | Medium | 🟡 In Progress | [Day 14](.) |
+| 15  | Hard   | 🟡 In Progress | [Day 15](.) |
+| 16  | Easy   | 🟡 In Progress | [Day 16](.) |
+| 17  | Medium | 🟡 In Progress | [Day 17](.) |
+| 18  | Hard   | 🟡 In Progress | [Day 18](.) |
+| 19  | Easy   | 🟡 In Progress|  [Day 19](.) |
+| 20  | Medium | 🟡 In Progress | [Day 20](.) |
+| 21  | Hard   | 🟡 In Progress | [Day 21](.) |
+| 22  | Easy   | 🟡 In Progress | [Day 22](.) |
+| 23  | Medium | 🟡 In Progress | [Day 23](.) |
+| 24  | Hard   | 🟡 In Progress | [Day 24](.) |
 
 ---
 
