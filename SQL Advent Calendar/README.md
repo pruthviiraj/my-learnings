@@ -1,8 +1,8 @@
-# SQL Advent Calendar — 24 Days of SQL by Interview Master
+# SQL Advent Calendar: 24 Days of SQL by Interview Master
 
 A festive, hands-on SQL challenge designed to strengthen analytical thinking, query optimization, and real-world problem-solving skills.  
 
-## 📌 About the Challenge
+## About the Challenge
 
 The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** ranging from **Easy → Medium → Hard**.  
 
@@ -42,7 +42,7 @@ The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** rang
 | 9   | Hard   | ✅ Completed | [Day 9](./day_9_tinsel_and_light_combinations) |
 | 10  | Easy   | ✅ Completed | [Day 10](./day_10_cookie_factory_oven_efficiency) |
 | 11  | Medium | ✅ Completed | [Day 11](./day_11_winter_market_sweater_search) |
-| 12  | Hard   | 🟡 In Progress | [Day 12](.) |
+| 12  | Hard   | ✅ Completed | [Day 12](./day_12_north_pole_network_most_active_users) |
 | 13  | Easy   | 🟡 In Progress | [Day 13](.) |
 | 14  | Medium | 🟡 In Progress | [Day 14](.) |
 | 15  | Hard   | 🟡 In Progress | [Day 15](.) |
