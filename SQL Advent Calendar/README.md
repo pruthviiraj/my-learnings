@@ -44,7 +44,7 @@ The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** rang
 | 11  | Medium | ✅ Completed | [Day 11](./day_11_winter_market_sweater_search) |
 | 12  | Hard   | ✅ Completed | [Day 12](./day_12_north_pole_network_most_active_users) |
 | 13  | Easy   | ✅ Completed | [Day 13](./day_13_naughty_nice_score_extremes) |
-| 14  | Medium | 🟡 In Progress | [Day 14](.) |
+| 14  | Medium | ✅ Completed | [Day 14](./day_14_focus_challenge_end_dates) |
 | 15  | Hard   | 🟡 In Progress | [Day 15](.) |
 | 16  | Easy   | 🟡 In Progress | [Day 16](.) |
 | 17  | Medium | 🟡 In Progress | [Day 17](.) |
