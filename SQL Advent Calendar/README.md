@@ -48,7 +48,7 @@ The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** rang
 | 15  | Hard   | ✅ Completed | [Day 15](./day_15_the_grinch_mischief_tracker) |
 | 16  | Easy   | ✅ Completed | [Day 16](./day_16_cozy_snow_dayt_tasks) |
 | 17  | Medium | ✅ Completed | [Day 17](./day_17_evening_task_categories) |
-| 18  | Hard   | 🟡 In Progress | [Day 18](.) |
+| 18  | Hard   | ✅ Completed | [Day 18](./day_18_progress_tracking) |
 | 19  | Easy   | 🟡 In Progress|  [Day 19](.) |
 | 20  | Medium | 🟡 In Progress | [Day 20](.) |
 | 21  | Hard   | 🟡 In Progress | [Day 21](.) |
