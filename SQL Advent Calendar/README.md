@@ -50,7 +50,7 @@ The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** rang
 | 17  | Medium | ✅ Completed | [Day 17](./day_17_evening_task_categories) |
 | 18  | Hard   | ✅ Completed | [Day 18](./day_18_progress_tracking) |
 | 19  | Easy   | ✅ Completed |  [Day 19](./day_19_gift_wrap_paper_usage) |
-| 20  | Medium | 🟡 In Progress | [Day 20](.) |
+| 20  | Medium | ✅ Completed | [Day 20](./day_20_hot_cocoa_break_logs) |
 | 21  | Hard   | 🟡 In Progress | [Day 21](.) |
 | 22  | Easy   | 🟡 In Progress | [Day 22](.) |
 | 23  | Medium | 🟡 In Progress | [Day 23](.) |
