@@ -40,6 +40,24 @@ The repository may include (and will continue to expand):
   - Short explanations in simple language
   - Key takeaways from practice sessions
   - Mistakes and lessons learned (very intentional)
+ 
+
+## 📂 Folder Structure & Learning Order
+
+| Order | Folder | Link |
+|------:|--------|---------|
+| 1 | 📁 HackerRank | [Open](./SQL%20Advent%20Calendar) |
+| 2 | 📁 SQL Advent Calendar | [Open](./HackerRank)  |
+
+
+### 🧭 How to Navigate This Repository
+
+* Start with **SQL Advent Calendar** for structured, day-by-day learning
+* Move to **HackerRank** to see how those concepts are applied in interview-style problems
+* Datasets and Notes will support future **end-to-end projects**
+
+This structure reflects **how I learn and build skills progressively**, not just a collection of random files.
+
 
 ## 🛠 Tools & Technologies
 
