@@ -46,8 +46,8 @@ The repository may include (and will continue to expand):
 
 | Order | Folder | Link |
 |------:|--------|---------|
-| 1 | 📁 HackerRank | [Open](./SQL%20Advent%20Calendar) |
-| 2 | 📁 SQL Advent Calendar | [Open](./HackerRank)  |
+| 1 | 📁 HackerRank | [Open](./HackerRank) |
+| 2 | 📁 SQL Advent Calendar | [Open](./SQL%20Advent%20Calendar)  |
 
 
 ### 🧭 How to Navigate This Repository
