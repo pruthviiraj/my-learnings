@@ -54,7 +54,7 @@ The SQL Advent Calendar by **Interview Master** includes **24 SQL puzzles** rang
 | 21  | Hard   | ✅ Completed | [Day 21](./day_21_fireside_story_running_total) |
 | 22  | Easy   | ✅ Completed | [Day 22](./day_22_penguin_sleigh_ride_filter) |
 | 23  | Medium | ✅ Completed | [Day 23](./day_23_gingerbread_house_top_builders) |
-| 24  | Hard   | 🟡 In Progress | [Day 24](.) |
+| 24  | Hard   | ✅ Completed | [Day 24](./day_24_user_type_analysis) |
 
 ---
 
