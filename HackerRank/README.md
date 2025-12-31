@@ -9,12 +9,12 @@ The goal is to build consistency, strengthen SQL concepts, and maintain a clear 
 
 ## Progress Tracker
 
-| Day | Problem | Category | Concepts Practiced | Solution Link |
-|-----|---------|----------|--------------------|----------------|
-| **Day 1** | The Blunder | Aggregation | AVG, ROUND, string filtering | [View Solution](Day_1) |
-| **Day 2** | Occupations | Advanced Select | CASE, pivoting, ordering | [View Solution](Day_2) |
-| **Day 3** | Weather Observation Station 19  | Aggregation | MIN, MAX, POWER, SQRT, ROUND | [View Solution](Day_3) |
-| **Day 4** | New Companies | Advanced Select | Multi-table JOINs, COUNT(DISTINCT), Hierarchical data | [View Solution](Day_4) |
+| Day       | Problem     | Category          |       Concepts Practiced                  | Solution Link          |
+|-----------|-------------|-------------------|-------------------------------------------|------------------------|
+| **Day 1** | The Blunder | Aggregation       | AVG, ROUND, string filtering              | [View Solution](Day_1) |
+| **Day 2** | Occupations | Advanced Select   | CASE, pivoting, ordering                  | [View Solution](Day_2) |
+| **Day 3** | Weather Observation Station 19  | Aggregation | MIN, MAX, POWER, SQRT, ROUND| [View Solution](Day_3) |
+| **Day 4** | New Companies | Advanced Select | Multi-table JOINs, COUNT(DISTINCT)        | [View Solution](Day_4) |
 
 
 > As I continue solving SQL challenges, I will keep updating this table.
@@ -27,7 +27,8 @@ The goal is to build consistency, strengthen SQL concepts, and maintain a clear 
 HackerRank/
 │── Day_1_Aggregation_The_Blunder/
 │── Day_2_AdvancedSelect_Occupations/
-│── Day_3_...
+│── Day_3_Weather Observation Station 19/
+│── Day_4_New Companies/
 │── README.md
 ```
 
