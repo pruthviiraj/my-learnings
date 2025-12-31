@@ -14,8 +14,8 @@ The goal is to build consistency, strengthen SQL concepts, and maintain a clear 
 | **Day 1** | The Blunder | Aggregation | AVG, ROUND, string filtering | [View Solution](Day_1) |
 | **Day 2** | Occupations | Advanced Select | CASE, pivoting, ordering | [View Solution](Day_2) |
 | **Day 3** | Weather Observation Station 19  | Aggregation | MIN, MAX, POWER, SQRT, ROUND | [View Solution](Day_3) |
-| **Day 4** | – | – | – | – |
-| **Day 5** | – | – | – | – |
+| **Day 4** | New Companies | Advanced Select | Multi-table JOINs, COUNT(DISTINCT), Hierarchical data | [View Solution](Day_4) |
+
 
 > As I continue solving SQL challenges, I will keep updating this table.
 
