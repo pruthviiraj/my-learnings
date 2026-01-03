@@ -1,6 +1,6 @@
 # My Learnings 📚
 
-This repository is a personal learning log where I document my day-to-day progress in **data analytics, SQL, Python, and BI tools**.  
+This repository is a personal learning log where I document my day to day progress in **data analytics, SQL, Python, and BI tools**.  
 
 The goal of this repo is simple: **learn consistently, practice with real examples, and keep everything organized in one place**.
 
