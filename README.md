@@ -16,7 +16,6 @@ Rather than treating learning as isolated tutorials, I use this space to break c
 
 This is a **living repository** — it grows as I learn.
 
-
 ## 👀 What You’ll Find Here
 
 The repository may include (and will continue to expand):
