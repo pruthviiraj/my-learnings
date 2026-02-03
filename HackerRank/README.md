@@ -9,13 +9,14 @@ The goal is to build consistency, strengthen SQL concepts, and maintain a clear 
 
 ## Progress Tracker
 
-| Day       | Problem     | Category          |       Concepts Practiced                  | Solution Link          |
-|-----------|-------------|-------------------|-------------------------------------------|------------------------|
-| **Day 1** | The Blunder | Aggregation       | AVG, ROUND, string filtering              | [View Solution](Day_1) |
-| **Day 2** | Occupations | Advanced Select   | CASE, pivoting, ordering                  | [View Solution](Day_2) |
-| **Day 3** | Weather Observation Station 19  | Aggregation | MIN, MAX, POWER, SQRT, ROUND| [View Solution](Day_3) |
-| **Day 4** | New Companies | Advanced Select | Multi-table JOINs, COUNT(DISTINCT)        | [View Solution](Day_4) |
-
+| Day       | Problem     | Solution Link          |
+|-----------|-------------|------------------------|
+| **Day 1** | The Blunder | [View Solution](Day_1) |
+| **Day 2** | Occupations | [View Solution](Day_2) |
+| **Day 3** | Weather Observation Station 19  | [View Solution](Day_3) |
+| **Day 4** | New Companies | [View Solution](Day_4) |
+| **Day 5** | Weather Observation Station 20  | [View Solution](Day_5) |
+| **Day 6** | The Report |  [View Solution](Day_6) |
 
 > As I continue solving SQL challenges, I will keep updating this table.
 
