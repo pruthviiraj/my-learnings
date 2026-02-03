@@ -1,7 +1,9 @@
 # Day 6 – The Report
 
 **Category:** SQL – Basic Join / Non-Equi Joins
-**Platform:** [HackerRank](https://www.hackerrank.com/challenges/the-report/problem)
+
+**Platform:** HackerRank
+
 **Difficulty:** Medium
 
 ## Problem Statement
