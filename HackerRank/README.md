@@ -17,6 +17,7 @@ The goal is to build consistency, strengthen SQL concepts, and maintain a clear 
 | **Day 4** | New Companies | [View Solution](Day_4) |
 | **Day 5** | Weather Observation Station 20  | [View Solution](Day_5) |
 | **Day 6** | The Report |  [View Solution](Day_6) |
+| **Day 7** | Top Competitors |  [View Solution](Day_7) |
 
 > As I continue solving SQL challenges, I will keep updating this table.
 
