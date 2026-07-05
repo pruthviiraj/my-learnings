@@ -5,26 +5,26 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 1](https://img.shields.io/badge/Solved-1-2cbb5d?style=flat-square)
-![Easy: 1](https://img.shields.io/badge/Easy-1-00b8a3?style=flat-square)
+![Solved: 2](https://img.shields.io/badge/Solved-2-2cbb5d?style=flat-square)
+![Easy: 2](https://img.shields.io/badge/Easy-2-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 5, 2026](https://img.shields.io/badge/Updated-Jul%205%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](.assets/progress-1-0-0.svg)
+![Solved by difficulty](.assets/progress-2-0-0.svg)
 
 ### By language
 
 | Folder | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [SQL](SQL/README.md) | 1 | 1 | 0 | 0 | Jul&nbsp;5,&nbsp;2026 |
+| [SQL](SQL/README.md) | 2 | 2 | 0 | 0 | Jul&nbsp;5,&nbsp;2026 |
 
 <details>
 <summary><b>By topic</b> · 1 topic</summary>
 
 | Topic | Solved | Easy | Medium | Hard | Problems |
 |:--|:--:|:--:|:--:|:--:|:--|
-| **Database** | 1 | 1 | 0 | 0 | [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md) |
+| **Database** | 2 | 2 | 0 | 0 | [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md) |
 
 </details>
 <!-- LEETCODE_SYNC_STATS_END -->
@@ -33,10 +33,11 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 <!-- LEETCODE_SYNC_TABLE_START -->
 <details>
-<summary><b>All 1 problem</b></summary>
+<summary><b>All 2 problems</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | SQL | [approach](SQL/0584-find-customer-referee/README.md)&nbsp;·&nbsp;[code](SQL/0584-find-customer-referee/0584-find-customer-referee.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | SQL | [approach](SQL/1757-recyclable-and-low-fat-products/README.md)&nbsp;·&nbsp;[code](SQL/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
 
 <sub><b>Syncs</b> = accepted pushes for that problem, so a re-solve bumps it.</sub>
