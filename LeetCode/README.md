@@ -40,7 +40,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 | # | Problem | Difficulty | Topics | Language | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | SQL | [approach](SQL/0584-find-customer-referee/README.md)&nbsp;·&nbsp;[code](SQL/0584-find-customer-referee/0584-find-customer-referee.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | Pandas | [approach](Pandas/0595-big-countries/README.md)&nbsp;·&nbsp;[code](Pandas/0595-big-countries/0595-big-countries.py) | 2 | Jul&nbsp;6,&nbsp;2026 |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | Pandas | [approach](Pandas/0595-big-countries/README.md)&nbsp;·&nbsp;[code](Pandas/0595-big-countries/0595-big-countries.py) | 3 | Jul&nbsp;6,&nbsp;2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | Python3 | [approach](Python/0595-big-countries/README.md)&nbsp;·&nbsp;[code](Python/0595-big-countries/0595-big-countries.py) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | SQL | [approach](SQL/1068-product-sales-analysis-i/README.md)&nbsp;·&nbsp;[code](SQL/1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | SQL | [approach](SQL/1148-article-views-i/README.md)&nbsp;·&nbsp;[code](SQL/1148-article-views-i/1148-article-views-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
