@@ -5,30 +5,39 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 0](https://img.shields.io/badge/Solved-0-2cbb5d?style=flat-square)
-![Easy: 0](https://img.shields.io/badge/Easy-0-00b8a3?style=flat-square)
+![Solved: 1](https://img.shields.io/badge/Solved-1-2cbb5d?style=flat-square)
+![Easy: 1](https://img.shields.io/badge/Easy-1-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 6, 2026](https://img.shields.io/badge/Updated-Jul%206%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](.assets/progress-0-0-0.svg)
+![Solved by difficulty](.assets/progress-1-0-0.svg)
 
 ### By language
 
 | Folder | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| [Python](Python/README.md) | 1 | 1 | 0 | 0 | Jul&nbsp;6,&nbsp;2026 |
 
+<details>
+<summary><b>By topic</b> · 1 topic</summary>
+
+| Topic | Solved | Easy | Medium | Hard | Problems |
+|:--|:--:|:--:|:--:|:--:|:--|
+| **Database** | 1 | 1 | 0 | 0 | [595. Big Countries](Python/0595-big-countries/README.md) |
+
+</details>
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
 
 <!-- LEETCODE_SYNC_TABLE_START -->
 <details>
-<summary><b>All 0 problems</b></summary>
+<summary><b>All 1 problem</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | Python3 | [approach](Python/0595-big-countries/README.md)&nbsp;·&nbsp;[code](Python/0595-big-countries/0595-big-countries.py) | 1 | Jul&nbsp;6,&nbsp;2026 |
 
 <sub><b>Syncs</b> = accepted pushes for that problem, so a re-solve bumps it.</sub>
 
