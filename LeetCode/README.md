@@ -5,8 +5,8 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 8](https://img.shields.io/badge/Solved-8-2cbb5d?style=flat-square)
-![Easy: 8](https://img.shields.io/badge/Easy-8-00b8a3?style=flat-square)
+![Solved: 7](https://img.shields.io/badge/Solved-8-2cbb5d?style=flat-square)
+![Easy: 7](https://img.shields.io/badge/Easy-8-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 6, 2026](https://img.shields.io/badge/Updated-Jul%206%2C%202026-555555?style=flat-square)
