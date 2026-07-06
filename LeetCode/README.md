@@ -17,7 +17,6 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 | Folder | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [pythondata](pythondata/README.md) | 1 | 1 | 0 | 0 | Jul&nbsp;6,&nbsp;2026 |
 | [SQL](SQL/README.md) | 7 | 7 | 0 | 0 | Jul&nbsp;6,&nbsp;2026 |
 
 <details>
@@ -25,7 +24,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 | Topic | Solved | Easy | Medium | Hard | Problems |
 |:--|:--:|:--:|:--:|:--:|:--|
-| **Database** | 8 | 8 | 0 | 0 | [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [595. Big Countries](pythondata/0595-big-countries/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md) |
+| **Database** | 7 | 7 | 0 | 0 | [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md) |
 
 </details>
 <!-- LEETCODE_SYNC_STATS_END -->
