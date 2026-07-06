@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 6](https://img.shields.io/badge/Solved-6-2cbb5d?style=flat-square)
-![Easy: 6](https://img.shields.io/badge/Easy-6-00b8a3?style=flat-square)
+![Solved: 7](https://img.shields.io/badge/Solved-7-2cbb5d?style=flat-square)
+![Easy: 7](https://img.shields.io/badge/Easy-7-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 6, 2026](https://img.shields.io/badge/Updated-Jul%206%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-6-0-0.svg)
+![Solved by difficulty](../.assets/progress-sql-7-0-0.svg)
 
 ### Topics covered
 
-![Database: 6](https://img.shields.io/badge/Database-6-30363d?style=flat-square)
+![Database: 7](https://img.shields.io/badge/Database-7-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -28,6 +28,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | [approach](0584-find-customer-referee/README.md)&nbsp;·&nbsp;[code](0584-find-customer-referee/0584-find-customer-referee.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | [approach](0595-big-countries/README.md)&nbsp;·&nbsp;[code](0595-big-countries/0595-big-countries.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | [approach](1068-product-sales-analysis-i/README.md)&nbsp;·&nbsp;[code](1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | [approach](1148-article-views-i/README.md)&nbsp;·&nbsp;[code](1148-article-views-i/1148-article-views-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | [approach](1378-replace-employee-id-with-the-unique-identifier/README.md)&nbsp;·&nbsp;[code](1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | [approach](1683-invalid-tweets/README.md)&nbsp;·&nbsp;[code](1683-invalid-tweets/1683-invalid-tweets.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
