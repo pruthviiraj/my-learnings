@@ -1,6 +1,6 @@
 # My Learnings 📚
 
-This repository is a personal learning log where I document my day-to-day progress in **data analytics, SQL, Python, and BI tools**.  
+This repository is a personal learning log where I document my day to day progress in **data analytics, SQL, Python, and BI tools**.  
 
 The goal of this repo is simple: **learn consistently, practice with real examples, and keep everything organized in one place**.
 
@@ -47,6 +47,7 @@ The repository may include (and will continue to expand):
 |------:|--------|---------|
 | 1 | 📁 HackerRank | [Open](./HackerRank) |
 | 2 | 📁 SQL Advent Calendar | [Open](./SQL%20Advent%20Calendar)  |
+| 2 | 📁 LeetCode | [Open](./LeetCode)  |
 
 
 ### 🧭 How to Navigate This Repository
