@@ -5,19 +5,19 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 11](https://img.shields.io/badge/Solved-11-2cbb5d?style=flat-square)
-![Easy: 11](https://img.shields.io/badge/Easy-11-00b8a3?style=flat-square)
+![Solved: 12](https://img.shields.io/badge/Solved-12-2cbb5d?style=flat-square)
+![Easy: 12](https://img.shields.io/badge/Easy-12-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 7, 2026](https://img.shields.io/badge/Updated-Jul%207%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](.assets/progress-11-0-0.svg)
+![Solved by difficulty](.assets/progress-12-0-0.svg)
 
 ### By language
 
 | Folder | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Python](Python/README.md) | 3 | 3 | 0 | 0 | Jul&nbsp;7,&nbsp;2026 |
+| [Python](Python/README.md) | 4 | 4 | 0 | 0 | Jul&nbsp;7,&nbsp;2026 |
 | [SQL](SQL/README.md) | 8 | 8 | 0 | 0 | Jul&nbsp;6,&nbsp;2026 |
 
 <details>
@@ -25,7 +25,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 | Topic | Solved | Easy | Medium | Hard | Problems |
 |:--|:--:|:--:|:--:|:--:|:--|
-| **Database** | 11 | 11 | 0 | 0 | [183. Customers Who Never Order](Python/Pandas/0183-customers-who-never-order/README.md), [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [595. Big Countries](Python/Pandas/0595-big-countries/README.md), [595. Big Countries](SQL/0595-big-countries/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](Python/Pandas/1757-recyclable-and-low-fat-products/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md) |
+| **Database** | 12 | 12 | 0 | 0 | [183. Customers Who Never Order](Python/Pandas/0183-customers-who-never-order/README.md), [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [595. Big Countries](Python/Pandas/0595-big-countries/README.md), [595. Big Countries](SQL/0595-big-countries/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1148. Article Views I](Python/Pandas/1148-article-views-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](Python/Pandas/1757-recyclable-and-low-fat-products/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md) |
 
 </details>
 <!-- LEETCODE_SYNC_STATS_END -->
@@ -34,7 +34,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 <!-- LEETCODE_SYNC_TABLE_START -->
 <details>
-<summary><b>All 11 problems</b></summary>
+<summary><b>All 12 problems</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -43,6 +43,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | Python · Pandas | [approach](Python/Pandas/0595-big-countries/README.md)&nbsp;·&nbsp;[code](Python/Pandas/0595-big-countries/0595-big-countries.py) | 2 | Jul&nbsp;6,&nbsp;2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | SQL | [approach](SQL/0595-big-countries/README.md)&nbsp;·&nbsp;[code](SQL/0595-big-countries/0595-big-countries.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | SQL | [approach](SQL/1068-product-sales-analysis-i/README.md)&nbsp;·&nbsp;[code](SQL/1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | Python · Pandas | [approach](Python/Pandas/1148-article-views-i/README.md)&nbsp;·&nbsp;[code](Python/Pandas/1148-article-views-i/1148-article-views-i.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | SQL | [approach](SQL/1148-article-views-i/README.md)&nbsp;·&nbsp;[code](SQL/1148-article-views-i/1148-article-views-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | SQL | [approach](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md)&nbsp;·&nbsp;[code](SQL/1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | SQL | [approach](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md)&nbsp;·&nbsp;[code](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
