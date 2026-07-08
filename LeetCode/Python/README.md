@@ -7,24 +7,23 @@ Solved in Python, leaning on the standard library where it earns its keep: compr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 10](https://img.shields.io/badge/Solved-10-2cbb5d?style=flat-square)
-![Easy: 10](https://img.shields.io/badge/Easy-10-00b8a3?style=flat-square)
+![Solved: 9](https://img.shields.io/badge/Solved-9-2cbb5d?style=flat-square)
+![Easy: 9](https://img.shields.io/badge/Easy-9-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 8, 2026](https://img.shields.io/badge/Updated-Jul%208%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-python-10-0-0.svg)
+![Solved by difficulty](../.assets/progress-python-9-0-0.svg)
 
 ### By topic
 
 | Topic | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Database](Database/README.md) | 1 | 1 | 0 | 0 | Jul&nbsp;8,&nbsp;2026 |
 | [Pandas](Pandas/README.md) | 9 | 9 | 0 | 0 | Jul&nbsp;8,&nbsp;2026 |
 
 ### Topics covered
 
-![Database: 10](https://img.shields.io/badge/Database-10-30363d?style=flat-square)
+![Database: 9](https://img.shields.io/badge/Database-9-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
