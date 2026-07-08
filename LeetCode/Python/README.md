@@ -7,23 +7,23 @@ Solved in Python, leaning on the standard library where it earns its keep: compr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 5](https://img.shields.io/badge/Solved-5-2cbb5d?style=flat-square)
-![Easy: 5](https://img.shields.io/badge/Easy-5-00b8a3?style=flat-square)
+![Solved: 6](https://img.shields.io/badge/Solved-6-2cbb5d?style=flat-square)
+![Easy: 6](https://img.shields.io/badge/Easy-6-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 8, 2026](https://img.shields.io/badge/Updated-Jul%208%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-python-5-0-0.svg)
+![Solved by difficulty](../.assets/progress-python-6-0-0.svg)
 
 ### By topic
 
 | Topic | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Pandas](Pandas/README.md) | 5 | 5 | 0 | 0 | Jul&nbsp;8,&nbsp;2026 |
+| [Pandas](Pandas/README.md) | 6 | 6 | 0 | 0 | Jul&nbsp;8,&nbsp;2026 |
 
 ### Topics covered
 
-![Database: 5](https://img.shields.io/badge/Database-5-30363d?style=flat-square)
+![Database: 6](https://img.shields.io/badge/Database-6-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -37,6 +37,7 @@ Solved in Python, leaning on the standard library where it earns its keep: compr
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | [approach](Pandas/1148-article-views-i/README.md)&nbsp;·&nbsp;[code](Pandas/1148-article-views-i/1148-article-views-i.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | [approach](Pandas/1683-invalid-tweets/README.md)&nbsp;·&nbsp;[code](Pandas/1683-invalid-tweets/1683-invalid-tweets.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [approach](Pandas/1757-recyclable-and-low-fat-products/README.md)&nbsp;·&nbsp;[code](Pandas/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | Database | [approach](Pandas/1873-calculate-special-bonus/README.md)&nbsp;·&nbsp;[code](Pandas/1873-calculate-special-bonus/1873-calculate-special-bonus.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 
 <sub><b>Syncs</b> = accepted pushes for that problem, so a re-solve bumps it.</sub>
 
