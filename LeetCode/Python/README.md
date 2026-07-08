@@ -7,24 +7,24 @@ Solved in Python, leaning on the standard library where it earns its keep: compr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 9](https://img.shields.io/badge/Solved-9-2cbb5d?style=flat-square)
-![Easy: 9](https://img.shields.io/badge/Easy-9-00b8a3?style=flat-square)
+![Solved: 10](https://img.shields.io/badge/Solved-10-2cbb5d?style=flat-square)
+![Easy: 10](https://img.shields.io/badge/Easy-10-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 8, 2026](https://img.shields.io/badge/Updated-Jul%208%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-python-9-0-0.svg)
+![Solved by difficulty](../.assets/progress-python-10-0-0.svg)
 
 ### By topic
 
 | Topic | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Database](Database/README.md) | 1 | 1 | 0 | 0 | Jul&nbsp;8,&nbsp;2026 |
-| [Pandas](Pandas/README.md) | 8 | 8 | 0 | 0 | Jul&nbsp;8,&nbsp;2026 |
+| [Pandas](Pandas/README.md) | 9 | 9 | 0 | 0 | Jul&nbsp;8,&nbsp;2026 |
 
 ### Topics covered
 
-![Database: 9](https://img.shields.io/badge/Database-9-30363d?style=flat-square)
+![Database: 10](https://img.shields.io/badge/Database-10-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -38,6 +38,7 @@ Solved in Python, leaning on the standard library where it earns its keep: compr
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | [approach](Pandas/1148-article-views-i/README.md)&nbsp;·&nbsp;[code](Pandas/1148-article-views-i/1148-article-views-i.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | Database | [approach](Pandas/1517-find-users-with-valid-e-mails/README.md)&nbsp;·&nbsp;[code](Pandas/1517-find-users-with-valid-e-mails/1517-find-users-with-valid-e-mails.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | [approach](Database/1527-patients-with-a-condition/README.md)&nbsp;·&nbsp;[code](Database/1527-patients-with-a-condition/1527-patients-with-a-condition.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | [approach](Pandas/1527-patients-with-a-condition/README.md)&nbsp;·&nbsp;[code](Pandas/1527-patients-with-a-condition/1527-patients-with-a-condition.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | Easy | Database | [approach](Pandas/1667-fix-names-in-a-table/README.md)&nbsp;·&nbsp;[code](Pandas/1667-fix-names-in-a-table/1667-fix-names-in-a-table.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | [approach](Pandas/1683-invalid-tweets/README.md)&nbsp;·&nbsp;[code](Pandas/1683-invalid-tweets/1683-invalid-tweets.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [approach](Pandas/1757-recyclable-and-low-fat-products/README.md)&nbsp;·&nbsp;[code](Pandas/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.py) | 1 | Jul&nbsp;7,&nbsp;2026 |

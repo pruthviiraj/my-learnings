@@ -7,17 +7,17 @@ The database track, solved with pandas: merges, `groupby` aggregation, filtering
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 8](https://img.shields.io/badge/Solved-8-2cbb5d?style=flat-square)
-![Easy: 8](https://img.shields.io/badge/Easy-8-00b8a3?style=flat-square)
+![Solved: 9](https://img.shields.io/badge/Solved-9-2cbb5d?style=flat-square)
+![Easy: 9](https://img.shields.io/badge/Easy-9-00b8a3?style=flat-square)
 ![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 8, 2026](https://img.shields.io/badge/Updated-Jul%208%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../../.assets/progress-python-pandas-8-0-0.svg)
+![Solved by difficulty](../../.assets/progress-python-pandas-9-0-0.svg)
 
 ### Topics covered
 
-![Database: 8](https://img.shields.io/badge/Database-8-30363d?style=flat-square)
+![Database: 9](https://img.shields.io/badge/Database-9-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -30,6 +30,7 @@ The database track, solved with pandas: merges, `groupby` aggregation, filtering
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | [approach](0595-big-countries/README.md)&nbsp;·&nbsp;[code](0595-big-countries/0595-big-countries.py) | 2 | Jul&nbsp;6,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | [approach](1148-article-views-i/README.md)&nbsp;·&nbsp;[code](1148-article-views-i/1148-article-views-i.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | Database | [approach](1517-find-users-with-valid-e-mails/README.md)&nbsp;·&nbsp;[code](1517-find-users-with-valid-e-mails/1517-find-users-with-valid-e-mails.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | [approach](1527-patients-with-a-condition/README.md)&nbsp;·&nbsp;[code](1527-patients-with-a-condition/1527-patients-with-a-condition.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | Easy | Database | [approach](1667-fix-names-in-a-table/README.md)&nbsp;·&nbsp;[code](1667-fix-names-in-a-table/1667-fix-names-in-a-table.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | [approach](1683-invalid-tweets/README.md)&nbsp;·&nbsp;[code](1683-invalid-tweets/1683-invalid-tweets.py) | 1 | Jul&nbsp;8,&nbsp;2026 |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [approach](1757-recyclable-and-low-fat-products/README.md)&nbsp;·&nbsp;[code](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
