@@ -26,11 +26,10 @@ I need to find the average time each machine takes to complete a process, which 
 
 ![Time: O(n)](https://img.shields.io/badge/Time-O(n)-8250df?style=flat-square)
 ![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
-![Runtime: 256 ms (beats 61.4%)](https://img.shields.io/badge/Runtime-256%20ms%20(beats%2061.4%25)-2cbb5d?style=flat-square)
+![Runtime: 237 ms (beats 97.2%)](https://img.shields.io/badge/Runtime-237%20ms%20(beats%2097.2%25)-2cbb5d?style=flat-square)
 ![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
 ```sql
-# Write your MySQL query statement below
 SELECT
     a1.machine_id,
     ROUND(AVG(a2.timestamp - a1.timestamp), 3) AS processing_time
