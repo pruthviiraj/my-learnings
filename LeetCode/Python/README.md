@@ -7,23 +7,23 @@ Solved in Python, leaning on the standard library where it earns its keep: compr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 10](https://img.shields.io/badge/Solved-10-2cbb5d?style=flat-square)
+![Solved: 11](https://img.shields.io/badge/Solved-11-2cbb5d?style=flat-square)
 ![Easy: 9](https://img.shields.io/badge/Easy-9-00b8a3?style=flat-square)
-![Medium: 1](https://img.shields.io/badge/Medium-1-ffc01e?style=flat-square)
+![Medium: 2](https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 9, 2026](https://img.shields.io/badge/Updated-Jul%209%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-python-9-1-0.svg)
+![Solved by difficulty](../.assets/progress-python-9-2-0.svg)
 
 ### By topic
 
 | Topic | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Pandas](Pandas/README.md) | 10 | 9 | 1 | 0 | Jul&nbsp;9,&nbsp;2026 |
+| [Pandas](Pandas/README.md) | 11 | 9 | 2 | 0 | Jul&nbsp;9,&nbsp;2026 |
 
 ### Topics covered
 
-![Database: 10](https://img.shields.io/badge/Database-10-30363d?style=flat-square)
+![Database: 11](https://img.shields.io/badge/Database-11-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -32,6 +32,7 @@ Solved in Python, leaning on the standard library where it earns its keep: compr
 
 | # | Problem | Difficulty | Topics | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | [approach](Pandas/0176-second-highest-salary/README.md)&nbsp;·&nbsp;[code](Pandas/0176-second-highest-salary/0176-second-highest-salary.py) | 1 | Jul&nbsp;9,&nbsp;2026 |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | [approach](Pandas/0177-nth-highest-salary/README.md)&nbsp;·&nbsp;[code](Pandas/0177-nth-highest-salary/0177-nth-highest-salary.py) | 1 | Jul&nbsp;9,&nbsp;2026 |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | Database | [approach](Pandas/0183-customers-who-never-order/README.md)&nbsp;·&nbsp;[code](Pandas/0183-customers-who-never-order/0183-customers-who-never-order.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | [approach](Pandas/0595-big-countries/README.md)&nbsp;·&nbsp;[code](Pandas/0595-big-countries/0595-big-countries.py) | 2 | Jul&nbsp;6,&nbsp;2026 |

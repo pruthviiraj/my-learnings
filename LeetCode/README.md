@@ -5,19 +5,19 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 19](https://img.shields.io/badge/Solved-19-2cbb5d?style=flat-square)
+![Solved: 20](https://img.shields.io/badge/Solved-20-2cbb5d?style=flat-square)
 ![Easy: 18](https://img.shields.io/badge/Easy-18-00b8a3?style=flat-square)
-![Medium: 1](https://img.shields.io/badge/Medium-1-ffc01e?style=flat-square)
+![Medium: 2](https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 9, 2026](https://img.shields.io/badge/Updated-Jul%209%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](.assets/progress-18-1-0.svg)
+![Solved by difficulty](.assets/progress-18-2-0.svg)
 
 ### By language
 
 | Folder | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Python](Python/README.md) | 10 | 9 | 1 | 0 | Jul&nbsp;9,&nbsp;2026 |
+| [Python](Python/README.md) | 11 | 9 | 2 | 0 | Jul&nbsp;9,&nbsp;2026 |
 | [SQL](SQL/README.md) | 9 | 9 | 0 | 0 | Jul&nbsp;9,&nbsp;2026 |
 
 <details>
@@ -25,7 +25,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 | Topic | Solved | Easy | Medium | Hard | Problems |
 |:--|:--:|:--:|:--:|:--:|:--|
-| **Database** | 19 | 18 | 1 | 0 | [177. Nth Highest Salary](Python/Pandas/0177-nth-highest-salary/README.md), [183. Customers Who Never Order](Python/Pandas/0183-customers-who-never-order/README.md), [197. Rising Temperature](SQL/0197-rising-temperature/README.md), [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [595. Big Countries](Python/Pandas/0595-big-countries/README.md), [595. Big Countries](SQL/0595-big-countries/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1148. Article Views I](Python/Pandas/1148-article-views-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1517. Find Users With Valid E-Mails](Python/Pandas/1517-find-users-with-valid-e-mails/README.md), [1527. Patients With a Condition](Python/Pandas/1527-patients-with-a-condition/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1667. Fix Names in a Table](Python/Pandas/1667-fix-names-in-a-table/README.md), [1683. Invalid Tweets](Python/Pandas/1683-invalid-tweets/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](Python/Pandas/1757-recyclable-and-low-fat-products/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md), [1873. Calculate Special Bonus](Python/Pandas/1873-calculate-special-bonus/README.md) |
+| **Database** | 20 | 18 | 2 | 0 | [176. Second Highest Salary](Python/Pandas/0176-second-highest-salary/README.md), [177. Nth Highest Salary](Python/Pandas/0177-nth-highest-salary/README.md), [183. Customers Who Never Order](Python/Pandas/0183-customers-who-never-order/README.md), [197. Rising Temperature](SQL/0197-rising-temperature/README.md), [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [595. Big Countries](Python/Pandas/0595-big-countries/README.md), [595. Big Countries](SQL/0595-big-countries/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1148. Article Views I](Python/Pandas/1148-article-views-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1517. Find Users With Valid E-Mails](Python/Pandas/1517-find-users-with-valid-e-mails/README.md), [1527. Patients With a Condition](Python/Pandas/1527-patients-with-a-condition/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1667. Fix Names in a Table](Python/Pandas/1667-fix-names-in-a-table/README.md), [1683. Invalid Tweets](Python/Pandas/1683-invalid-tweets/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](Python/Pandas/1757-recyclable-and-low-fat-products/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md), [1873. Calculate Special Bonus](Python/Pandas/1873-calculate-special-bonus/README.md) |
 
 </details>
 <!-- LEETCODE_SYNC_STATS_END -->
@@ -34,10 +34,11 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 <!-- LEETCODE_SYNC_TABLE_START -->
 <details>
-<summary><b>All 19 problems</b></summary>
+<summary><b>All 20 problems</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | Python · Pandas | [approach](Python/Pandas/0176-second-highest-salary/README.md)&nbsp;·&nbsp;[code](Python/Pandas/0176-second-highest-salary/0176-second-highest-salary.py) | 1 | Jul&nbsp;9,&nbsp;2026 |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | Python · Pandas | [approach](Python/Pandas/0177-nth-highest-salary/README.md)&nbsp;·&nbsp;[code](Python/Pandas/0177-nth-highest-salary/0177-nth-highest-salary.py) | 1 | Jul&nbsp;9,&nbsp;2026 |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | Database | Python · Pandas | [approach](Python/Pandas/0183-customers-who-never-order/README.md)&nbsp;·&nbsp;[code](Python/Pandas/0183-customers-who-never-order/0183-customers-who-never-order.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | SQL | [approach](SQL/0197-rising-temperature/README.md)&nbsp;·&nbsp;[code](SQL/0197-rising-temperature/0197-rising-temperature.sql) | 2 | Jul&nbsp;9,&nbsp;2026 |
