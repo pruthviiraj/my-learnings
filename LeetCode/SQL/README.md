@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 12](https://img.shields.io/badge/Solved-12-2cbb5d?style=flat-square)
+![Solved: 13](https://img.shields.io/badge/Solved-13-2cbb5d?style=flat-square)
 ![Easy: 12](https://img.shields.io/badge/Easy-12-00b8a3?style=flat-square)
-![Medium: 0](https://img.shields.io/badge/Medium-0-ffc01e?style=flat-square)
+![Medium: 1](https://img.shields.io/badge/Medium-1-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 10, 2026](https://img.shields.io/badge/Updated-Jul%2010%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-12-0-0.svg)
+![Solved by difficulty](../.assets/progress-sql-12-1-0.svg)
 
 ### Topics covered
 
-![Database: 12](https://img.shields.io/badge/Database-12-30363d?style=flat-square)
+![Database: 13](https://img.shields.io/badge/Database-13-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -27,6 +27,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 | # | Problem | Difficulty | Topics | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | [approach](0197-rising-temperature/README.md)&nbsp;·&nbsp;[code](0197-rising-temperature/0197-rising-temperature.sql) | 2 | Jul&nbsp;9,&nbsp;2026 |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | [approach](0570-managers-with-at-least-5-direct-reports/README.md)&nbsp;·&nbsp;[code](0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | Database | [approach](0577-employee-bonus/README.md)&nbsp;·&nbsp;[code](0577-employee-bonus/0577-employee-bonus.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | [approach](0584-find-customer-referee/README.md)&nbsp;·&nbsp;[code](0584-find-customer-referee/0584-find-customer-referee.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | [approach](0595-big-countries/README.md)&nbsp;·&nbsp;[code](0595-big-countries/0595-big-countries.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
