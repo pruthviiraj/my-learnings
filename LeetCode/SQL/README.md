@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 15](https://img.shields.io/badge/Solved-15-2cbb5d?style=flat-square)
-![Easy: 13](https://img.shields.io/badge/Easy-13-00b8a3?style=flat-square)
+![Solved: 16](https://img.shields.io/badge/Solved-16-2cbb5d?style=flat-square)
+![Easy: 14](https://img.shields.io/badge/Easy-14-00b8a3?style=flat-square)
 ![Medium: 2](https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
-![Updated: Jul 11, 2026](https://img.shields.io/badge/Updated-Jul%2011%2C%202026-555555?style=flat-square)
+![Updated: Jul 12, 2026](https://img.shields.io/badge/Updated-Jul%2012%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-13-2-0.svg)
+![Solved by difficulty](../.assets/progress-sql-14-2-0.svg)
 
 ### Topics covered
 
-![Database: 15](https://img.shields.io/badge/Database-15-30363d?style=flat-square)
+![Database: 16](https://img.shields.io/badge/Database-16-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -34,6 +34,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | Database | [approach](0620-not-boring-movies/README.md)&nbsp;·&nbsp;[code](0620-not-boring-movies/0620-not-boring-movies.sql) | 1 | Jul&nbsp;11,&nbsp;2026 |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | [approach](1068-product-sales-analysis-i/README.md)&nbsp;·&nbsp;[code](1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | [approach](1148-article-views-i/README.md)&nbsp;·&nbsp;[code](1148-article-views-i/1148-article-views-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | Database | [approach](1251-average-selling-price/README.md)&nbsp;·&nbsp;[code](1251-average-selling-price/1251-average-selling-price.sql) | 1 | Jul&nbsp;12,&nbsp;2026 |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | Database | [approach](1280-students-and-examinations/README.md)&nbsp;·&nbsp;[code](1280-students-and-examinations/1280-students-and-examinations.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | [approach](1378-replace-employee-id-with-the-unique-identifier/README.md)&nbsp;·&nbsp;[code](1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | [approach](1581-customer-who-visited-but-did-not-make-any-transactions/README.md)&nbsp;·&nbsp;[code](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
