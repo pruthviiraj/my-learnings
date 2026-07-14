@@ -30,14 +30,12 @@ I calculate `quality` as the average of `rating` divided by `position`, and `poo
 ![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
 ```sql
--- query quality = avg(rating/position)
--- poor query percentage = (COUNT(rating)<3)*100.0/COUNT(rating)
 SELECT
     query_name,
     ROUND(AVG(rating/position),2) AS quality,
     ROUND(AVG(CASE WHEN rating < 3 THEN 1 ELSE 0 END) * 100.0,2) AS poor_query_percentage
 FROM queries
-GROUP BY query_name
+GROUP BY query_name;
 ```
 
 Source: [1211-queries-quality-and-percentage.sql](./1211-queries-quality-and-percentage.sql)
