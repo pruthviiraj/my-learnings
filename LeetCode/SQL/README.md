@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 17](https://img.shields.io/badge/Solved-17-2cbb5d?style=flat-square)
-![Easy: 15](https://img.shields.io/badge/Easy-15-00b8a3?style=flat-square)
+![Solved: 18](https://img.shields.io/badge/Solved-18-2cbb5d?style=flat-square)
+![Easy: 16](https://img.shields.io/badge/Easy-16-00b8a3?style=flat-square)
 ![Medium: 2](https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
-![Updated: Jul 12, 2026](https://img.shields.io/badge/Updated-Jul%2012%2C%202026-555555?style=flat-square)
+![Updated: Jul 13, 2026](https://img.shields.io/badge/Updated-Jul%2013%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-15-2-0.svg)
+![Solved by difficulty](../.assets/progress-sql-16-2-0.svg)
 
 ### Topics covered
 
-![Database: 17](https://img.shields.io/badge/Database-17-30363d?style=flat-square)
+![Database: 18](https://img.shields.io/badge/Database-18-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -39,6 +39,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | Database | [approach](1280-students-and-examinations/README.md)&nbsp;·&nbsp;[code](1280-students-and-examinations/1280-students-and-examinations.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | [approach](1378-replace-employee-id-with-the-unique-identifier/README.md)&nbsp;·&nbsp;[code](1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | [approach](1581-customer-who-visited-but-did-not-make-any-transactions/README.md)&nbsp;·&nbsp;[code](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | Easy | Database | [approach](1633-percentage-of-users-attended-a-contest/README.md)&nbsp;·&nbsp;[code](1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql) | 1 | Jul&nbsp;13,&nbsp;2026 |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Easy | Database | [approach](1661-average-time-of-process-per-machine/README.md)&nbsp;·&nbsp;[code](1661-average-time-of-process-per-machine/1661-average-time-of-process-per-machine.sql) | 2 | Jul&nbsp;9,&nbsp;2026 |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | [approach](1683-invalid-tweets/README.md)&nbsp;·&nbsp;[code](1683-invalid-tweets/1683-invalid-tweets.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [approach](1757-recyclable-and-low-fat-products/README.md)&nbsp;·&nbsp;[code](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
