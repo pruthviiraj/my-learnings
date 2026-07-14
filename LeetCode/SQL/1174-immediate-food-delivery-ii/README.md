@@ -1,0 +1,102 @@
+[← SQL solutions](../README.md) · [View on LeetCode ↗](https://leetcode.com/problems/immediate-food-delivery-ii/)
+
+# 1174. Immediate Food Delivery II
+
+![Medium](https://img.shields.io/badge/Medium-ffc01e?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-2f81f7?style=flat-square)
+![Database](https://img.shields.io/badge/Database-30363d?style=flat-square)
+![Solved Jul 14, 2026](https://img.shields.io/badge/Solved%20Jul%2014%2C%202026-555555?style=flat-square)
+
+## How I approached it
+
+I want to find the percentage of first orders that are immediate, so I need to identify the first order for each customer and check if it is immediate. My first idea was to use a subquery to find the first orders, but I realized I could use a single query with a `CASE` statement to count the immediate orders.
+
+**How I got there:** I noticed that the first order for each customer is the one with the earliest order date, so I used the `MIN` function to find these dates. I then used a `CASE` statement to count the orders where the `customer_pref_delivery_date` is the same as the `order_date`.
+
+1. Find the first order for each customer by selecting the `customer_id` and the minimum `order_date` and grouping by `customer_id`.
+2. Use a subquery to filter the `delivery` table to only include these first orders.
+3. Use a `CASE` statement to count the orders where the `customer_pref_delivery_date` is the same as the `order_date`, which are the immediate orders.
+4. Divide the count of immediate orders by the total count of first orders and multiply by 100 to get the percentage.
+5. Round the result to 2 decimal places using the `ROUND` function.
+
+**Pattern to remember:** When I need to find a percentage, I use a `CASE` statement to count the items that meet the condition and divide by the total count.
+
+**Watch out for:** If I forget to filter the orders to only include the first orders for each customer, I will get incorrect results.
+
+## Solution
+
+![Time: O(n)](https://img.shields.io/badge/Time-O(n)-8250df?style=flat-square)
+![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
+![Runtime: 610 ms (beats 86.3%)](https://img.shields.io/badge/Runtime-610%20ms%20(beats%2086.3%25)-2cbb5d?style=flat-square)
+![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
+
+```sql
+SELECT
+    ROUND(SUM(CASE WHEN customer_pref_delivery_date = order_date  THEN 1 ELSE 0 END) * 100.0/COUNT(*),2) AS immediate_percentage
+FROM delivery
+WHERE (customer_id,order_date) IN (
+    SELECT customer_id, MIN(order_date)
+    FROM delivery
+    GROUP BY customer_id 
+);
+```
+
+Source: [1174-immediate-food-delivery-ii.sql](./1174-immediate-food-delivery-ii.sql)
+
+<details>
+<summary><b>Problem statement</b></summary>
+
+Table: `Delivery`
+
+```text
++-----------------------------+---------+
+| Column Name                 | Type    |
++-----------------------------+---------+
+| delivery_id                 | int     |
+| customer_id                 | int     |
+| order_date                  | date    |
+| customer_pref_delivery_date | date    |
++-----------------------------+---------+
+delivery_id is the column of unique values of this table.
+The table holds information about food delivery to customers that make orders at some date and specify a preferred delivery date (on the same order date or after it).
+```
+
+If the customer's preferred delivery date is the same as the order date, then the order is called **immediate;** otherwise, it is called ** scheduled**.
+
+The **first order** of a customer is the order with the earliest order date that the customer made. It is guaranteed that a customer has precisely one first order.
+
+Write a solution to find the percentage of immediate orders in the first orders of all customers, **rounded to 2 decimal places**.
+
+The result format is in the following example.
+
+### Example 1
+
+```text
+Input:
+Delivery table:
++-------------+-------------+------------+-----------------------------+
+| delivery_id | customer_id | order_date | customer_pref_delivery_date |
++-------------+-------------+------------+-----------------------------+
+| 1           | 1           | 2019-08-01 | 2019-08-02                  |
+| 2           | 2           | 2019-08-02 | 2019-08-02                  |
+| 3           | 1           | 2019-08-11 | 2019-08-12                  |
+| 4           | 3           | 2019-08-24 | 2019-08-24                  |
+| 5           | 3           | 2019-08-21 | 2019-08-22                  |
+| 6           | 2           | 2019-08-11 | 2019-08-13                  |
+| 7           | 4           | 2019-08-09 | 2019-08-09                  |
++-------------+-------------+------------+-----------------------------+
+Output:
++----------------------+
+| immediate_percentage |
++----------------------+
+| 50.00                |
++----------------------+
+Explanation:
+The customer id 1 has a first order with delivery id 1 and it is scheduled.
+The customer id 2 has a first order with delivery id 2 and it is immediate.
+The customer id 3 has a first order with delivery id 5 and it is scheduled.
+The customer id 4 has a first order with delivery id 7 and it is immediate.
+Hence, half the customers have immediate first orders.
+```
+
+</details>
