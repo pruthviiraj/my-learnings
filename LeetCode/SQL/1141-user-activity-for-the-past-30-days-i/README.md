@@ -25,13 +25,15 @@ I want to count the number of distinct users who made at least one activity on e
 
 ![Time: O(n)](https://img.shields.io/badge/Time-O(n)-8250df?style=flat-square)
 ![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
+![Runtime: 517 ms (beats 46.3%)](https://img.shields.io/badge/Runtime-517%20ms%20(beats%2046.3%25)-2cbb5d?style=flat-square)
+![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
 ```sql
 SELECT
     activity_date AS day,
     COUNT(DISTINCT user_id) AS active_users
 FROM activity
-WHERE activity_date BETWEEN '2019-06-27' AND '2019-07-27'
+WHERE activity_date BETWEEN '2019-06-28' AND '2019-07-27'
 GROUP BY activity_date;
 ```
 
