@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 21](https://img.shields.io/badge/Solved-21-2cbb5d?style=flat-square)
-![Easy: 17](https://img.shields.io/badge/Easy-17-00b8a3?style=flat-square)
+![Solved: 22](https://img.shields.io/badge/Solved-22-2cbb5d?style=flat-square)
+![Easy: 18](https://img.shields.io/badge/Easy-18-00b8a3?style=flat-square)
 ![Medium: 4](https://img.shields.io/badge/Medium-4-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
-![Updated: Jul 14, 2026](https://img.shields.io/badge/Updated-Jul%2014%2C%202026-555555?style=flat-square)
+![Updated: Jul 15, 2026](https://img.shields.io/badge/Updated-Jul%2015%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-17-4-0.svg)
+![Solved by difficulty](../.assets/progress-sql-18-4-0.svg)
 
 ### Topics covered
 
-![Database: 21](https://img.shields.io/badge/Database-21-30363d?style=flat-square)
+![Database: 22](https://img.shields.io/badge/Database-22-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -34,6 +34,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | Database | [approach](0620-not-boring-movies/README.md)&nbsp;·&nbsp;[code](0620-not-boring-movies/0620-not-boring-movies.sql) | 1 | Jul&nbsp;11,&nbsp;2026 |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | [approach](1068-product-sales-analysis-i/README.md)&nbsp;·&nbsp;[code](1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | Database | [approach](1075-project-employees-i/README.md)&nbsp;·&nbsp;[code](1075-project-employees-i/1075-project-employees-i.sql) | 1 | Jul&nbsp;12,&nbsp;2026 |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | Database | [approach](1141-user-activity-for-the-past-30-days-i/README.md)&nbsp;·&nbsp;[code](1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql) | 1 | Jul&nbsp;15,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | [approach](1148-article-views-i/README.md)&nbsp;·&nbsp;[code](1148-article-views-i/1148-article-views-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | Database | [approach](1174-immediate-food-delivery-ii/README.md)&nbsp;·&nbsp;[code](1174-immediate-food-delivery-ii/1174-immediate-food-delivery-ii.sql) | 1 | Jul&nbsp;14,&nbsp;2026 |
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | Database | [approach](1193-monthly-transactions-i/README.md)&nbsp;·&nbsp;[code](1193-monthly-transactions-i/1193-monthly-transactions-i.sql) | 1 | Jul&nbsp;14,&nbsp;2026 |
