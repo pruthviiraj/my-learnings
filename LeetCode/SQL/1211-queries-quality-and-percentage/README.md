@@ -9,33 +9,34 @@
 
 ## How I approached it
 
-I calculate `quality` as the average of `rating` divided by `position`, and `poor_query_percentage` as the percentage of rows with `rating` less than 3. My first idea was to use separate `SUM` and `COUNT` calculations, but I can do it all in one pass with `AVG` and a `CASE` statement.
+I need to calculate `quality` as the average of the ratio between query `rating` and its `position`, and `poor_query_percentage` as the percentage of all queries with `rating` less than 3. My first idea was to calculate the sum of the ratios and then divide by the count of queries, but I can do this directly with `AVG`.
 
-**How I got there:** I noticed that `quality` involves both `rating` and `position`, so I looked for a way to combine them in a single calculation, which led me to use `AVG` with a division inside it. For `poor_query_percentage`, I realized I could use a `CASE` statement to count the poor queries without needing a separate `COUNT`.
+**How I got there:** I noticed that the `quality` can be calculated directly with `AVG` of `rating/position`, and for `poor_query_percentage` I can use a `CASE` statement inside `AVG` to count the number of poor queries. This way I can calculate both values in a single query.
 
-1. Group the `queries` table by `query_name` so each query is calculated separately.
-2. Calculate `quality` by taking the average of `rating` divided by `position` for each group, using `AVG(rating/position)`.
-3. Calculate `poor_query_percentage` by using a `CASE` statement to count rows with `rating` less than 3, then multiplying by 100 and averaging, with `AVG(CASE WHEN rating < 3 THEN 1 ELSE 0 END) * 100.0`.
-4. Round both `quality` and `poor_query_percentage` to 2 decimal places with `ROUND`.
+1. Group the table by `query_name` so each query is counted on its own.
+2. Calculate `quality` by taking the `AVG` of `rating/position` for each group.
+3. Calculate `poor_query_percentage` by using a `CASE` statement inside `AVG` to count the number of poor queries, then multiply by 100.0 and divide by the total count of queries.
 
-**Pattern to remember:** Using `AVG` with a calculation inside it can simplify queries that involve ratios or percentages.
+**Pattern to remember:** When calculating averages and percentages, use `AVG` with conditional statements to simplify the query.
 
-**Watch out for:** Forgetting to multiply by 100.0 when calculating `poor_query_percentage` would result in a percentage that is too small.
+**Watch out for:** Not multiplying by 100.0 when calculating `poor_query_percentage` would result in a value without decimal places.
 
 ## Solution
 
 ![Time: O(n)](https://img.shields.io/badge/Time-O(n)-8250df?style=flat-square)
 ![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
-![Runtime: 449 ms (beats 12.0%)](https://img.shields.io/badge/Runtime-449%20ms%20(beats%2012.0%25)-2cbb5d?style=flat-square)
+![Runtime: 492 ms (beats 9.0%)](https://img.shields.io/badge/Runtime-492%20ms%20(beats%209.0%25)-2cbb5d?style=flat-square)
 ![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
 ```sql
+-- query quality = avg(rating/position)
+-- poor query percentage = (COUNT(rating)<3)*100.0/COUNT(rating)
 SELECT
     query_name,
     ROUND(AVG(rating/position),2) AS quality,
     ROUND(AVG(CASE WHEN rating < 3 THEN 1 ELSE 0 END) * 100.0,2) AS poor_query_percentage
 FROM queries
-GROUP BY query_name;
+GROUP BY query_name
 ```
 
 Source: [1211-queries-quality-and-percentage.sql](./1211-queries-quality-and-percentage.sql)
