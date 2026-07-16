@@ -9,22 +9,22 @@
 
 ## How I approached it
 
-I need to calculate `quality` as the average of the ratio between query `rating` and its `position`, and `poor_query_percentage` as the percentage of all queries with `rating` less than 3. My first idea was to calculate the sum of the ratios and then divide by the count of queries, but I can do this directly with `AVG`.
+I need to calculate the average of `rating/position` for each query to find the `quality`, and then figure out the percentage of queries with a rating less than 3 to find the `poor_query_percentage`. I use the `AVG()` function to do these calculations after grouping by `query_name`. I need to round the final answers to two decimal places.
 
-**How I got there:** I noticed that the `quality` can be calculated directly with `AVG` of `rating/position`, and for `poor_query_percentage` I can use a `CASE` statement inside `AVG` to count the number of poor queries. This way I can calculate both values in a single query.
+**How I got there:** I started by thinking about how to find the average rating per position. Then I realized I needed to calculate the proportion of queries with a rating less than 3. This involves a `CASE` statement to assign 1 if the rating is less than 3, and 0 otherwise, before calculating the average percentage.
 
-1. Group the table by `query_name` so each query is counted on its own.
-2. Calculate `quality` by taking the `AVG` of `rating/position` for each group.
-3. Calculate `poor_query_percentage` by using a `CASE` statement inside `AVG` to count the number of poor queries, then multiply by 100.0 and divide by the total count of queries.
+1. Group the rows by `query_name` so I can calculate the average for each query.
+2. Calculate the average of `rating / position` for each group. This gives me the query quality.
+3. Calculate the percentage of queries with a rating less than 3 for each group. I use a `CASE` statement within an `AVG()` function to achieve this.
+4. Round both the `quality` and `poor_query_percentage` to two decimal places using the `ROUND()` function.
+5. Select the `query_name`, calculated `quality`, and `poor_query_percentage`.
 
-**Pattern to remember:** When calculating averages and percentages, use `AVG` with conditional statements to simplify the query.
-
-**Watch out for:** Not multiplying by 100.0 when calculating `poor_query_percentage` would result in a value without decimal places.
+**Pattern to remember:** Use `AVG()` with a `CASE` statement to calculate percentages based on conditions within the data.
 
 ## Solution
 
 ![Time: O(n)](https://img.shields.io/badge/Time-O(n)-8250df?style=flat-square)
-![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
+![Space: O(1)](https://img.shields.io/badge/Space-O(1)-d29922?style=flat-square)
 ![Runtime: 492 ms (beats 9.0%)](https://img.shields.io/badge/Runtime-492%20ms%20(beats%209.0%25)-2cbb5d?style=flat-square)
 ![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
