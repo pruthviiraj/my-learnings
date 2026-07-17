@@ -5,27 +5,27 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 33](https://img.shields.io/badge/Solved-33-2cbb5d?style=flat-square)
+![Solved: 34](https://img.shields.io/badge/Solved-34-2cbb5d?style=flat-square)
 ![Easy: 27](https://img.shields.io/badge/Easy-27-00b8a3?style=flat-square)
-![Medium: 6](https://img.shields.io/badge/Medium-6-ffc01e?style=flat-square)
+![Medium: 7](https://img.shields.io/badge/Medium-7-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
-![Updated: Jul 15, 2026](https://img.shields.io/badge/Updated-Jul%2015%2C%202026-555555?style=flat-square)
+![Updated: Jul 17, 2026](https://img.shields.io/badge/Updated-Jul%2017%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](.assets/progress-27-6-0.svg)
+![Solved by difficulty](.assets/progress-27-7-0.svg)
 
 ### By language
 
 | Folder | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Python](Python/README.md) | 11 | 9 | 2 | 0 | Jul&nbsp;9,&nbsp;2026 |
-| [SQL](SQL/README.md) | 22 | 18 | 4 | 0 | Jul&nbsp;15,&nbsp;2026 |
+| [SQL](SQL/README.md) | 23 | 18 | 5 | 0 | Jul&nbsp;17,&nbsp;2026 |
 
 <details>
 <summary><b>By topic</b> · 1 topic</summary>
 
 | Topic | Solved | Easy | Medium | Hard | Problems |
 |:--|:--:|:--:|:--:|:--:|:--|
-| **Database** | 33 | 27 | 6 | 0 | [176. Second Highest Salary](Python/Pandas/0176-second-highest-salary/README.md), [177. Nth Highest Salary](Python/Pandas/0177-nth-highest-salary/README.md), [183. Customers Who Never Order](Python/Pandas/0183-customers-who-never-order/README.md), [197. Rising Temperature](SQL/0197-rising-temperature/README.md), [570. Managers with at Least 5 Direct Reports](SQL/0570-managers-with-at-least-5-direct-reports/README.md), [577. Employee Bonus](SQL/0577-employee-bonus/README.md), [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [595. Big Countries](Python/Pandas/0595-big-countries/README.md), [595. Big Countries](SQL/0595-big-countries/README.md), [620. Not Boring Movies](SQL/0620-not-boring-movies/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1075. Project Employees I](SQL/1075-project-employees-i/README.md), [1141. User Activity for the Past 30 Days I](SQL/1141-user-activity-for-the-past-30-days-i/README.md), [1148. Article Views I](Python/Pandas/1148-article-views-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1174. Immediate Food Delivery II](SQL/1174-immediate-food-delivery-ii/README.md), [1193. Monthly Transactions I](SQL/1193-monthly-transactions-i/README.md), [1211. Queries Quality and Percentage](SQL/1211-queries-quality-and-percentage/README.md), [1251. Average Selling Price](SQL/1251-average-selling-price/README.md), [1280. Students and Examinations](SQL/1280-students-and-examinations/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1517. Find Users With Valid E-Mails](Python/Pandas/1517-find-users-with-valid-e-mails/README.md), [1527. Patients With a Condition](Python/Pandas/1527-patients-with-a-condition/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1633. Percentage of Users Attended a Contest](SQL/1633-percentage-of-users-attended-a-contest/README.md), [1661. Average Time of Process per Machine](SQL/1661-average-time-of-process-per-machine/README.md), [1667. Fix Names in a Table](Python/Pandas/1667-fix-names-in-a-table/README.md), [1683. Invalid Tweets](Python/Pandas/1683-invalid-tweets/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](Python/Pandas/1757-recyclable-and-low-fat-products/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md), [1873. Calculate Special Bonus](Python/Pandas/1873-calculate-special-bonus/README.md), [1934. Confirmation Rate](SQL/1934-confirmation-rate/README.md) |
+| **Database** | 34 | 27 | 7 | 0 | [176. Second Highest Salary](Python/Pandas/0176-second-highest-salary/README.md), [177. Nth Highest Salary](Python/Pandas/0177-nth-highest-salary/README.md), [183. Customers Who Never Order](Python/Pandas/0183-customers-who-never-order/README.md), [197. Rising Temperature](SQL/0197-rising-temperature/README.md), [550. Game Play Analysis IV](SQL/0550-game-play-analysis-iv/README.md), [570. Managers with at Least 5 Direct Reports](SQL/0570-managers-with-at-least-5-direct-reports/README.md), [577. Employee Bonus](SQL/0577-employee-bonus/README.md), [584. Find Customer Referee](SQL/0584-find-customer-referee/README.md), [595. Big Countries](Python/Pandas/0595-big-countries/README.md), [595. Big Countries](SQL/0595-big-countries/README.md), [620. Not Boring Movies](SQL/0620-not-boring-movies/README.md), [1068. Product Sales Analysis I](SQL/1068-product-sales-analysis-i/README.md), [1075. Project Employees I](SQL/1075-project-employees-i/README.md), [1141. User Activity for the Past 30 Days I](SQL/1141-user-activity-for-the-past-30-days-i/README.md), [1148. Article Views I](Python/Pandas/1148-article-views-i/README.md), [1148. Article Views I](SQL/1148-article-views-i/README.md), [1174. Immediate Food Delivery II](SQL/1174-immediate-food-delivery-ii/README.md), [1193. Monthly Transactions I](SQL/1193-monthly-transactions-i/README.md), [1211. Queries Quality and Percentage](SQL/1211-queries-quality-and-percentage/README.md), [1251. Average Selling Price](SQL/1251-average-selling-price/README.md), [1280. Students and Examinations](SQL/1280-students-and-examinations/README.md), [1378. Replace Employee ID With The Unique Identifier](SQL/1378-replace-employee-id-with-the-unique-identifier/README.md), [1517. Find Users With Valid E-Mails](Python/Pandas/1517-find-users-with-valid-e-mails/README.md), [1527. Patients With a Condition](Python/Pandas/1527-patients-with-a-condition/README.md), [1581. Customer Who Visited but Did Not Make Any Transactions](SQL/1581-customer-who-visited-but-did-not-make-any-transactions/README.md), [1633. Percentage of Users Attended a Contest](SQL/1633-percentage-of-users-attended-a-contest/README.md), [1661. Average Time of Process per Machine](SQL/1661-average-time-of-process-per-machine/README.md), [1667. Fix Names in a Table](Python/Pandas/1667-fix-names-in-a-table/README.md), [1683. Invalid Tweets](Python/Pandas/1683-invalid-tweets/README.md), [1683. Invalid Tweets](SQL/1683-invalid-tweets/README.md), [1757. Recyclable and Low Fat Products](Python/Pandas/1757-recyclable-and-low-fat-products/README.md), [1757. Recyclable and Low Fat Products](SQL/1757-recyclable-and-low-fat-products/README.md), [1873. Calculate Special Bonus](Python/Pandas/1873-calculate-special-bonus/README.md), [1934. Confirmation Rate](SQL/1934-confirmation-rate/README.md) |
 
 </details>
 <!-- LEETCODE_SYNC_STATS_END -->
@@ -34,7 +34,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 
 <!-- LEETCODE_SYNC_TABLE_START -->
 <details>
-<summary><b>All 33 problems</b></summary>
+<summary><b>All 34 problems</b></summary>
 
 | # | Problem | Difficulty | Topics | Language | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -42,6 +42,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | Python · Pandas | [approach](Python/Pandas/0177-nth-highest-salary/README.md)&nbsp;·&nbsp;[code](Python/Pandas/0177-nth-highest-salary/0177-nth-highest-salary.py) | 1 | Jul&nbsp;9,&nbsp;2026 |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | Database | Python · Pandas | [approach](Python/Pandas/0183-customers-who-never-order/README.md)&nbsp;·&nbsp;[code](Python/Pandas/0183-customers-who-never-order/0183-customers-who-never-order.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | SQL | [approach](SQL/0197-rising-temperature/README.md)&nbsp;·&nbsp;[code](SQL/0197-rising-temperature/0197-rising-temperature.sql) | 2 | Jul&nbsp;9,&nbsp;2026 |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | SQL | [approach](SQL/0550-game-play-analysis-iv/README.md)&nbsp;·&nbsp;[code](SQL/0550-game-play-analysis-iv/0550-game-play-analysis-iv.sql) | 1 | Jul&nbsp;17,&nbsp;2026 |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | SQL | [approach](SQL/0570-managers-with-at-least-5-direct-reports/README.md)&nbsp;·&nbsp;[code](SQL/0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | Database | SQL | [approach](SQL/0577-employee-bonus/README.md)&nbsp;·&nbsp;[code](SQL/0577-employee-bonus/0577-employee-bonus.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | SQL | [approach](SQL/0584-find-customer-referee/README.md)&nbsp;·&nbsp;[code](SQL/0584-find-customer-referee/0584-find-customer-referee.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |

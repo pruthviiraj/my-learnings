@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 22](https://img.shields.io/badge/Solved-22-2cbb5d?style=flat-square)
+![Solved: 23](https://img.shields.io/badge/Solved-23-2cbb5d?style=flat-square)
 ![Easy: 18](https://img.shields.io/badge/Easy-18-00b8a3?style=flat-square)
-![Medium: 4](https://img.shields.io/badge/Medium-4-ffc01e?style=flat-square)
+![Medium: 5](https://img.shields.io/badge/Medium-5-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
-![Updated: Jul 15, 2026](https://img.shields.io/badge/Updated-Jul%2015%2C%202026-555555?style=flat-square)
+![Updated: Jul 17, 2026](https://img.shields.io/badge/Updated-Jul%2017%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-18-4-0.svg)
+![Solved by difficulty](../.assets/progress-sql-18-5-0.svg)
 
 ### Topics covered
 
-![Database: 22](https://img.shields.io/badge/Database-22-30363d?style=flat-square)
+![Database: 23](https://img.shields.io/badge/Database-23-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -27,6 +27,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 | # | Problem | Difficulty | Topics | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | [approach](0197-rising-temperature/README.md)&nbsp;·&nbsp;[code](0197-rising-temperature/0197-rising-temperature.sql) | 2 | Jul&nbsp;9,&nbsp;2026 |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | [approach](0550-game-play-analysis-iv/README.md)&nbsp;·&nbsp;[code](0550-game-play-analysis-iv/0550-game-play-analysis-iv.sql) | 1 | Jul&nbsp;17,&nbsp;2026 |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | [approach](0570-managers-with-at-least-5-direct-reports/README.md)&nbsp;·&nbsp;[code](0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | Database | [approach](0577-employee-bonus/README.md)&nbsp;·&nbsp;[code](0577-employee-bonus/0577-employee-bonus.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | [approach](0584-find-customer-referee/README.md)&nbsp;·&nbsp;[code](0584-find-customer-referee/0584-find-customer-referee.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
