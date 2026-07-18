@@ -9,7 +9,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 ![Easy: 28](https://img.shields.io/badge/Easy-28-00b8a3?style=flat-square)
 ![Medium: 7](https://img.shields.io/badge/Medium-7-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
-![Updated: Jul 17, 2026](https://img.shields.io/badge/Updated-Jul%2017%2C%202026-555555?style=flat-square)
+![Updated: Jul 18, 2026](https://img.shields.io/badge/Updated-Jul%2018%2C%202026-555555?style=flat-square)
 
 ![Solved by difficulty](.assets/progress-28-7-0.svg)
 
@@ -18,7 +18,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 | Folder | Problems | Easy | Medium | Hard | Last updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [Python](Python/README.md) | 11 | 9 | 2 | 0 | Jul&nbsp;9,&nbsp;2026 |
-| [SQL](SQL/README.md) | 24 | 19 | 5 | 0 | Jul&nbsp;17,&nbsp;2026 |
+| [SQL](SQL/README.md) | 24 | 19 | 5 | 0 | Jul&nbsp;18,&nbsp;2026 |
 
 <details>
 <summary><b>By topic</b> · 1 topic</summary>
@@ -51,7 +51,7 @@ Accepted [LeetCode](https://leetcode.com) solutions, each written up step by ste
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | Database | SQL | [approach](SQL/0620-not-boring-movies/README.md)&nbsp;·&nbsp;[code](SQL/0620-not-boring-movies/0620-not-boring-movies.sql) | 1 | Jul&nbsp;11,&nbsp;2026 |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | SQL | [approach](SQL/1068-product-sales-analysis-i/README.md)&nbsp;·&nbsp;[code](SQL/1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | Database | SQL | [approach](SQL/1075-project-employees-i/README.md)&nbsp;·&nbsp;[code](SQL/1075-project-employees-i/1075-project-employees-i.sql) | 1 | Jul&nbsp;12,&nbsp;2026 |
-| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | Database | SQL | [approach](SQL/1141-user-activity-for-the-past-30-days-i/README.md)&nbsp;·&nbsp;[code](SQL/1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql) | 2 | Jul&nbsp;15,&nbsp;2026 |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | Database | SQL | [approach](SQL/1141-user-activity-for-the-past-30-days-i/README.md)&nbsp;·&nbsp;[code](SQL/1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql) | 3 | Jul&nbsp;18,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | Python · Pandas | [approach](Python/Pandas/1148-article-views-i/README.md)&nbsp;·&nbsp;[code](Python/Pandas/1148-article-views-i/1148-article-views-i.py) | 1 | Jul&nbsp;7,&nbsp;2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | SQL | [approach](SQL/1148-article-views-i/README.md)&nbsp;·&nbsp;[code](SQL/1148-article-views-i/1148-article-views-i.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | Database | SQL | [approach](SQL/1174-immediate-food-delivery-ii/README.md)&nbsp;·&nbsp;[code](SQL/1174-immediate-food-delivery-ii/1174-immediate-food-delivery-ii.sql) | 1 | Jul&nbsp;14,&nbsp;2026 |

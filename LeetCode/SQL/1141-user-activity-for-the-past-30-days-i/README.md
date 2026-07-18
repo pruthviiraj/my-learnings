@@ -5,35 +5,34 @@
 ![Easy](https://img.shields.io/badge/Easy-00b8a3?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-2f81f7?style=flat-square)
 ![Database](https://img.shields.io/badge/Database-30363d?style=flat-square)
-![Solved Jul 15, 2026](https://img.shields.io/badge/Solved%20Jul%2015%2C%202026-555555?style=flat-square)
+![Solved Jul 18, 2026](https://img.shields.io/badge/Solved%20Jul%2018%2C%202026-555555?style=flat-square)
 
 ## How I approached it
 
-I want to count the number of distinct users who made at least one activity on each day, so I use a `COUNT(DISTINCT user_id)` to count each user only once per day. My first idea was to filter out days with no activity, but it turns out that is not needed because the `WHERE` and `GROUP BY` already exclude those days. I use a `WHERE` to filter the days to the last 30 days ending '2019-07-27'.
+I need to count how many users were active each day, and any activity makes a user active. My first idea was to count all activities, but that counts the same user multiple times if they do more than one thing in a day. I use `COUNT(DISTINCT user_id)` to count each user only once per day.
 
-**How I got there:** I noticed that the problem asks for the daily active user count for the last 30 days, so I asked what dates I need to consider. Once I saw that the `activity_date` can be any date, the fix was to use a `BETWEEN` in the `WHERE` to get the right dates.
+**How I got there:** I noticed the problem only cares about days with at least one active user, so I do not need to worry about days with no activity. I also saw that the `activity_date` column already has the date I need, so I can group by that.
 
-1. Filter the `activity` table to only include rows where the `activity_date` is between '2019-06-27' and '2019-07-27'.
-2. Group the filtered table by `activity_date` so each day is counted on its own.
-3. Count the distinct `user_id` for each group, which gives the number of active users for that day.
+1. Go through the `activity` table and filter out rows where `activity_date` is not in the last 30 days, using `BETWEEN '2019-06-26' AND '2019-07-27'`.
+2. Group the remaining rows by `activity_date` so I can count active users for each day.
+3. Count `DISTINCT user_id` for each group, which gives me the number of active users for that day.
 
-**Pattern to remember:** When counting distinct items in a group, use `COUNT(DISTINCT item)` to count each item only once.
+**Pattern to remember:** When counting things that can appear more than once, use `COUNT(DISTINCT ...)` to avoid double counting.
 
-**Watch out for:** Forgetting the `DISTINCT` in `COUNT(DISTINCT user_id)` would count duplicate activities by the same user on the same day multiple times.
+**Watch out for:** Forgetting the `DISTINCT` keyword would count the same user multiple times if they have multiple activities in a day.
 
 ## Solution
 
 ![Time: O(n)](https://img.shields.io/badge/Time-O(n)-8250df?style=flat-square)
 ![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
-![Runtime: 517 ms (beats 46.3%)](https://img.shields.io/badge/Runtime-517%20ms%20(beats%2046.3%25)-2cbb5d?style=flat-square)
-![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
 ```sql
 SELECT
     activity_date AS day,
     COUNT(DISTINCT user_id) AS active_users
 FROM activity
-WHERE activity_date BETWEEN '2019-06-28' AND '2019-07-27'
+WHERE
+    activity_date BETWEEN '2019-06-26' AND '2019-07-27'
 GROUP BY activity_date;
 ```
 
