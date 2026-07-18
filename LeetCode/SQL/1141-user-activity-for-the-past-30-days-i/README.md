@@ -25,6 +25,8 @@ I need to count how many users were active each day, and any activity makes a us
 
 ![Time: O(n)](https://img.shields.io/badge/Time-O(n)-8250df?style=flat-square)
 ![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
+![Runtime: 487 ms (beats 75.3%)](https://img.shields.io/badge/Runtime-487%20ms%20(beats%2075.3%25)-2cbb5d?style=flat-square)
+![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
 ```sql
 SELECT
@@ -32,7 +34,7 @@ SELECT
     COUNT(DISTINCT user_id) AS active_users
 FROM activity
 WHERE
-    activity_date BETWEEN '2019-06-26' AND '2019-07-27'
+    activity_date BETWEEN '2019-06-28' AND '2019-07-27'
 GROUP BY activity_date;
 ```
 
