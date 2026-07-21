@@ -26,6 +26,8 @@ I want to find the first year each product was sold, so I need to identify the e
 
 ![Time: O(n log n)](https://img.shields.io/badge/Time-O(n%20log%20n)-8250df?style=flat-square)
 ![Space: O(n)](https://img.shields.io/badge/Space-O(n)-d29922?style=flat-square)
+![Runtime: 885 ms (beats 13.8%)](https://img.shields.io/badge/Runtime-885%20ms%20(beats%2013.8%25)-2cbb5d?style=flat-square)
+![Memory: 0B (beats 100.0%)](https://img.shields.io/badge/Memory-0B%20(beats%20100.0%25)-2f81f7?style=flat-square)
 
 ```sql
 SELECT
@@ -39,30 +41,6 @@ WHERE (product_id, year) IN (
     FROM sales
     GROUP BY product_id
 );
-
----------------- Alternate approach ---------------
-
-'''
-
-WITH RankedSales AS (
-    SELECT 
-        product_id, 
-        year AS first_year, 
-        quantity, 
-        price,
-        -- Assign rank 1 to the earliest year, giving ties the same rank!
-        DENSE_RANK() OVER(PARTITION BY product_id ORDER BY year ASC) as rnk
-    FROM Sales
-)
-SELECT 
-    product_id, 
-    first_year, 
-    quantity, 
-    price
-FROM RankedSales
-WHERE rnk = 1;
-
-'''
 ```
 
 Source: [1070-product-sales-analysis-iii.sql](./1070-product-sales-analysis-iii.sql)
