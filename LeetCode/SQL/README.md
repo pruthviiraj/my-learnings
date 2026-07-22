@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 26](https://img.shields.io/badge/Solved-26-2cbb5d?style=flat-square)
-![Easy: 20](https://img.shields.io/badge/Easy-20-00b8a3?style=flat-square)
+![Solved: 27](https://img.shields.io/badge/Solved-27-2cbb5d?style=flat-square)
+![Easy: 21](https://img.shields.io/badge/Easy-21-00b8a3?style=flat-square)
 ![Medium: 6](https://img.shields.io/badge/Medium-6-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Jul 22, 2026](https://img.shields.io/badge/Updated-Jul%2022%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-20-6-0.svg)
+![Solved by difficulty](../.assets/progress-sql-21-6-0.svg)
 
 ### Topics covered
 
-![Database: 26](https://img.shields.io/badge/Database-26-30363d?style=flat-square)
+![Database: 27](https://img.shields.io/badge/Database-27-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -49,6 +49,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | Easy | Database | [approach](1633-percentage-of-users-attended-a-contest/README.md)&nbsp;·&nbsp;[code](1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql) | 1 | Jul&nbsp;13,&nbsp;2026 |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Easy | Database | [approach](1661-average-time-of-process-per-machine/README.md)&nbsp;·&nbsp;[code](1661-average-time-of-process-per-machine/1661-average-time-of-process-per-machine.sql) | 2 | Jul&nbsp;9,&nbsp;2026 |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | [approach](1683-invalid-tweets/README.md)&nbsp;·&nbsp;[code](1683-invalid-tweets/1683-invalid-tweets.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | Database | [approach](1729-find-followers-count/README.md)&nbsp;·&nbsp;[code](1729-find-followers-count/1729-find-followers-count.sql) | 1 | Jul&nbsp;22,&nbsp;2026 |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | [approach](1757-recyclable-and-low-fat-products/README.md)&nbsp;·&nbsp;[code](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | Medium | Database | [approach](1934-confirmation-rate/README.md)&nbsp;·&nbsp;[code](1934-confirmation-rate/1934-confirmation-rate.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | Easy | Database | [approach](2356-number-of-unique-subjects-taught-by-each-teacher/README.md)&nbsp;·&nbsp;[code](2356-number-of-unique-subjects-taught-by-each-teacher/2356-number-of-unique-subjects-taught-by-each-teacher.sql) | 1 | Jul&nbsp;17,&nbsp;2026 |
