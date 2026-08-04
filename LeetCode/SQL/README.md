@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 31](https://img.shields.io/badge/Solved-31-2cbb5d?style=flat-square)
-![Easy: 24](https://img.shields.io/badge/Easy-24-00b8a3?style=flat-square)
+![Solved: 32](https://img.shields.io/badge/Solved-32-2cbb5d?style=flat-square)
+![Easy: 25](https://img.shields.io/badge/Easy-25-00b8a3?style=flat-square)
 ![Medium: 7](https://img.shields.io/badge/Medium-7-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
 ![Updated: Aug 4, 2026](https://img.shields.io/badge/Updated-Aug%204%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-24-7-0.svg)
+![Solved by difficulty](../.assets/progress-sql-25-7-0.svg)
 
 ### Topics covered
 
-![Database: 31](https://img.shields.io/badge/Database-31-30363d?style=flat-square)
+![Database: 32](https://img.shields.io/badge/Database-32-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -33,6 +33,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | [approach](0584-find-customer-referee/README.md)&nbsp;·&nbsp;[code](0584-find-customer-referee/0584-find-customer-referee.sql) | 1 | Jul&nbsp;5,&nbsp;2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | [approach](0595-big-countries/README.md)&nbsp;·&nbsp;[code](0595-big-countries/0595-big-countries.sql) | 1 | Jul&nbsp;6,&nbsp;2026 |
 | 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | Database | [approach](0596-classes-with-at-least-5-students/README.md)&nbsp;·&nbsp;[code](0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql) | 1 | Jul&nbsp;22,&nbsp;2026 |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | Database | [approach](0610-triangle-judgement/README.md)&nbsp;·&nbsp;[code](0610-triangle-judgement/0610-triangle-judgement.sql) | 1 | Aug&nbsp;4,&nbsp;2026 |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | Database | [approach](0619-biggest-single-number/README.md)&nbsp;·&nbsp;[code](0619-biggest-single-number/0619-biggest-single-number.sql) | 1 | Jul&nbsp;22,&nbsp;2026 |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | Database | [approach](0620-not-boring-movies/README.md)&nbsp;·&nbsp;[code](0620-not-boring-movies/0620-not-boring-movies.sql) | 1 | Jul&nbsp;11,&nbsp;2026 |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | Database | [approach](1045-customers-who-bought-all-products/README.md)&nbsp;·&nbsp;[code](1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql) | 1 | Jul&nbsp;24,&nbsp;2026 |
