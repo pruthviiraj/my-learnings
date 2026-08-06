@@ -7,17 +7,17 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 ## Progress
 
 <!-- LEETCODE_SYNC_STATS_START -->
-![Solved: 32](https://img.shields.io/badge/Solved-32-2cbb5d?style=flat-square)
+![Solved: 33](https://img.shields.io/badge/Solved-33-2cbb5d?style=flat-square)
 ![Easy: 25](https://img.shields.io/badge/Easy-25-00b8a3?style=flat-square)
-![Medium: 7](https://img.shields.io/badge/Medium-7-ffc01e?style=flat-square)
+![Medium: 8](https://img.shields.io/badge/Medium-8-ffc01e?style=flat-square)
 ![Hard: 0](https://img.shields.io/badge/Hard-0-ff375f?style=flat-square)
-![Updated: Aug 4, 2026](https://img.shields.io/badge/Updated-Aug%204%2C%202026-555555?style=flat-square)
+![Updated: Aug 6, 2026](https://img.shields.io/badge/Updated-Aug%206%2C%202026-555555?style=flat-square)
 
-![Solved by difficulty](../.assets/progress-sql-25-7-0.svg)
+![Solved by difficulty](../.assets/progress-sql-25-8-0.svg)
 
 ### Topics covered
 
-![Database: 32](https://img.shields.io/badge/Database-32-30363d?style=flat-square)
+![Database: 33](https://img.shields.io/badge/Database-33-30363d?style=flat-square)
 <!-- LEETCODE_SYNC_STATS_END -->
 
 ## Problems
@@ -26,6 +26,7 @@ The database track, solved in SQL: shaping queries with joins, grouping and aggr
 
 | # | Problem | Difficulty | Topics | Solution | Syncs | Updated |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | Database | [approach](0180-consecutive-numbers/README.md)&nbsp;·&nbsp;[code](0180-consecutive-numbers/0180-consecutive-numbers.sql) | 1 | Aug&nbsp;6,&nbsp;2026 |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | [approach](0197-rising-temperature/README.md)&nbsp;·&nbsp;[code](0197-rising-temperature/0197-rising-temperature.sql) | 2 | Jul&nbsp;9,&nbsp;2026 |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | [approach](0550-game-play-analysis-iv/README.md)&nbsp;·&nbsp;[code](0550-game-play-analysis-iv/0550-game-play-analysis-iv.sql) | 1 | Jul&nbsp;17,&nbsp;2026 |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | [approach](0570-managers-with-at-least-5-direct-reports/README.md)&nbsp;·&nbsp;[code](0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql) | 1 | Jul&nbsp;10,&nbsp;2026 |
